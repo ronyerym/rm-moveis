@@ -91,7 +91,7 @@
     cursor: pointer;
 }
 #btn1 button:hover{
-    background-color: green;
+    background-color: #95e595;
 }
 @media screen and (max-width:420px){
     .content h1{
